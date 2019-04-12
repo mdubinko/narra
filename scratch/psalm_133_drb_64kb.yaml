@@ -1,0 +1,18 @@
+meta:
+  audio_file: scratch/psalm_133_drb_64kb.wav
+  audio_samples_sec: 22050
+  average_vol: 0.5
+  central_hz: 636.423812542945
+  content_end_sec: 44.38
+  content_start_sec: 13.74
+  duration_sec: 54.17795918367347
+  loudness_rms: 2139.284522893057
+  words: 67
+  wpm: 27.44
+script:
+- w: behold start=13.74
+- w: how start=14.5
+- w: good start=14.83
+- w: and start=15.48
+- w: how start=15.64
+- w: pleasant start=15.8

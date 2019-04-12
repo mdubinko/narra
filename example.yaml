@@ -1,0 +1,18 @@
+---
+meta:
+  audio_file: psalm_133_drb_64kb.wav
+  audio_samples_sec: 22050
+  content_start_sec: 13.74
+  content_end_sec: 44.38
+  duration_sec: 49.66
+  words: 67
+  wpm: 27.44
+  central_hz: 333.42
+  loudness_rms: 2000.0
+script:
+- word: behold start=13.74
+- word: how start=14.5
+- word: good start=14.83
+- word: and start=15.48
+- word: how start=15.64
+- word: pleasant start=15.8
